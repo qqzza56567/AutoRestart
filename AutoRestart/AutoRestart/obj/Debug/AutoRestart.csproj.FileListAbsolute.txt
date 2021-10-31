@@ -1,0 +1,10 @@
+C:\Users\廖長億\Desktop\AutoRestart\AutoRestart\bin\Debug\AutoRestart.exe.config
+C:\Users\廖長億\Desktop\AutoRestart\AutoRestart\bin\Debug\AutoRestart.exe
+C:\Users\廖長億\Desktop\AutoRestart\AutoRestart\bin\Debug\AutoRestart.pdb
+C:\Users\廖長億\Desktop\AutoRestart\AutoRestart\obj\Debug\AutoRestart.csprojAssemblyReference.cache
+C:\Users\廖長億\Desktop\AutoRestart\AutoRestart\obj\Debug\AutoRestart.Properties.Resources.resources
+C:\Users\廖長億\Desktop\AutoRestart\AutoRestart\obj\Debug\AutoRestart.csproj.GenerateResource.cache
+C:\Users\廖長億\Desktop\AutoRestart\AutoRestart\obj\Debug\AutoRestart.csproj.CoreCompileInputs.cache
+C:\Users\廖長億\Desktop\AutoRestart\AutoRestart\obj\Debug\AutoRestart.exe
+C:\Users\廖長億\Desktop\AutoRestart\AutoRestart\obj\Debug\AutoRestart.pdb
+C:\Users\廖長億\Desktop\AutoRestart\AutoRestart\obj\Debug\AutoRestart.MainForm.resources
